@@ -47,3 +47,8 @@
 	path = ig-landoo/custom-imeguisa
 	url = git@github.com:ig-landoo/custom-imeguisa.git
 	branch = master
+
+[submodule "OCA/account-invoicing"]
+	path = OCA/account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 12.0
