@@ -67,3 +67,8 @@
 	path = acysos/odoo-addons
 	url = git@github.com:acysos/odoo-addons.git
 	branch = 12.0
+
+[submodule "ig-landoo/l10n-spain-imeguisa"]
+	path = ig-landoo/l10n-spain-imeguisa
+	url = git@github.com:ig-landoo/l10n-spain-imeguisa.git
+	branch = 12.0
