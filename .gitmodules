@@ -1,3 +1,13 @@
+[submodule "acysos/odoo-addons"]
+        path = acysos/odoo-addons
+        url = git@github.com:acysos/odoo-addons.git
+        branch = 12.0
+
+[submodule "ig-landoo/l10n-spain-imeguisa"]
+        path = ig-landoo/l10n-spain-imeguisa
+        url = git@github.com:ig-landoo/l10n-spain-imeguisa.git
+        branch = 12.0
+
 [submodule "OCA/purchase-workflow"]
 	path = OCA/purchase-workflow
 	url = git@github.com:OCA/purchase-workflow.git
@@ -11,11 +21,6 @@
 [submodule "OCA/bank-payment"]
 	path = OCA/bank-payment
 	url = git@github.com:OCA/bank-payment.git
-	branch = 12.0
-
-[submodule "OCA/l10n-spain"]
-	path = OCA/l10n-spain
-	url = git@github.com:OCA/l10n-spain.git
 	branch = 12.0
 
 [submodule "OCA/community-data-files"]
@@ -61,14 +66,4 @@
 [submodule "OCA/queue"]
 	path = OCA/queue
 	url = git@github.com:OCA/queue.git
-	branch = 12.0
-
-[submodule "acysos/odoo-addons"]
-	path = acysos/odoo-addons
-	url = git@github.com:acysos/odoo-addons.git
-	branch = 12.0
-
-[submodule "ig-landoo/l10n-spain-imeguisa"]
-	path = ig-landoo/l10n-spain-imeguisa
-	url = git@github.com:ig-landoo/l10n-spain-imeguisa.git
 	branch = 12.0
