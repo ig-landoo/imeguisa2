@@ -18,11 +18,6 @@
 	url = git@github.com:OCA/account-payment.git
 	branch = 12.0
 
-[submodule "OCA/bank-payment"]
-	path = OCA/bank-payment
-	url = git@github.com:OCA/bank-payment.git
-	branch = 12.0
-
 [submodule "OCA/community-data-files"]
 	path = OCA/community-data-files
 	url = git@github.com:OCA/community-data-files.git
